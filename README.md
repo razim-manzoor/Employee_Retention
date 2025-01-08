@@ -2,51 +2,55 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-v0.24-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.4-orange)
 
 ---
 
-## 🚀 About This Project
+<p align="center">
+  <img src="https://your-image-url.com/logo.png" width="200"/>
+</p>
 
-This **machine learning project** predicts customer churn based on historical customer data. It demonstrates my skills in data preprocessing, model building, and evaluation. With this project, I showcase my ability to solve real-world problems using **Python** and **scikit-learn**.
+## 📊 About This Project
+This **Machine Learning project** predicts customer churn based on historical customer data. It demonstrates my ability to:
+- Clean and preprocess data.
+- Build machine learning models.
+- Evaluate model performance.
 
 ---
 
 ## ⚙️ Technologies Used
 
-- **Python**: 3.8
+- **Python**: Main programming language
+- **TensorFlow**: Model training
 - **Pandas**: Data manipulation
-- **Scikit-learn**: Machine learning models
+- **Scikit-learn**: Model evaluation
 - **Matplotlib**: Data visualization
-- **Jupyter Notebooks**: For development and visualization
 
 ---
 
 ## 💻 How I Built It
 
-1. **Data Preprocessing**: Cleaned and preprocessed raw customer data.
-2. **Modeling**: Used decision trees and logistic regression models for prediction.
-3. **Evaluation**: Evaluated models using accuracy, recall, and precision metrics.
-4. **Visualization**: Created charts to explain the results and model performance.
+1. **Data Preprocessing**: Cleaned and formatted raw customer data.
+2. **Modeling**: Trained multiple models and selected the best one.
+3. **Evaluation**: Used accuracy and precision metrics to evaluate models.
 
 ---
 
 ## 🖼️ Screenshots
+![Demo](https://your-image-url.com/demo.gif)
 
-![Churn Prediction](https://yourimageurl.com/demo.png)
+---
+
+## 🎥 Video Demo
+[![Project Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 ---
 
 ## 🏆 Project Goals & Outcome
-
-- **Goal**: Build a model to predict customer churn.
-- **Outcome**: Achieved 85% model accuracy.
+- **Goal**: Predict customer churn accurately.
+- **Outcome**: Achieved **85%** accuracy using the decision tree model.
 
 ---
 
-## 💬 Contact Information
-
-If you'd like to discuss the project or reach out for any collaboration opportunities, feel free to contact me:
-
-- **Email**: [youremail@example.com](mailto:manzoorrazim@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/razim-manzoor)
+## 📱 Connect with Me!
+- [LinkedIn](https://www.linkedin.com/in/razim-manzoor)
