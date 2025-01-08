@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Employee Retention Prediction
 
 ## About This Project
 
@@ -39,5 +39,5 @@ This project is a great example of my skills in data science and machine learnin
 
 ## Contact Information
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- Email: [youremail@example.com](mailto:manzoorrazim@gmail.com)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/razim-manzoor)
