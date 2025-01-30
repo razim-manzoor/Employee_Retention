@@ -2,11 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ---
-
-<p align="center">
-  <img src="https://your-image-url.com/logo.png" width="200"/>
-</p>
-
 ## 📊 About This Project
 This **Machine Learning project** predicts customer churn based on historical customer data. It demonstrates my ability to:
 - Clean and preprocess data.
