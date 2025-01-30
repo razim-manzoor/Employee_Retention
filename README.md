@@ -1,9 +1,6 @@
 # 📊 Employee Retention Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.4-orange)
-
 ---
 
 <p align="center">
